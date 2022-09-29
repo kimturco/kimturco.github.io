@@ -10,4 +10,4 @@ This page can be deployed on any web server if zipped and deployed to the direct
 Given more time we could better style this page using more bootstrap techniques, add additional pages to the tab bar and alot more. 
 
 ## License Information
-
+This project is licensed under the MIT Class
